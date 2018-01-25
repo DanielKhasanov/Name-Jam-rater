@@ -1,0 +1,34 @@
+{
+  "name": "name-jam-rator",
+  "version": "1.0.0",
+  "description": "Create funny titles for placeholder usernames",
+  "main": "name-jam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielKhasanov/Name-Jam-rater.git"
+  },
+  "keywords": [
+    "random",
+    "user",
+    "username",
+    "title",
+    "clue",
+    "job",
+    "profession",
+    "funny",
+    "cute",
+    "silly",
+    "name",
+    "node",
+    "generator"
+  ],
+  "author": "Daniel Khasanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielKhasanov/Name-Jam-rater/issues"
+  },
+  "homepage": "https://github.com/DanielKhasanov/Name-Jam-rater#readme"
+}
