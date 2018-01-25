@@ -2,18 +2,35 @@ Name Jam'rater
 ---
 Create awesome and funny aliterative usernames for your users! Over 20,000+ possibilities.
 
-Usage:
-```js
-import {generate_names} from 'name-jam';
-```
 I need ten names stat! And if they are not :laughing: :laughing: funny I'll be :fire: :fire: fired!
 
+Output is as an array!
+
+Installation:
+---
+```
+yarn add name-jam-rator
+```
+```
+npm install name-jam-rator --save
+```
+
+Usage:
+---
 ```js
+
+var generate_names=  require('name-jam');
+
+//One name
+const username = generate_names()[0];
+
+//List of names
 const numNames = 10;
 const nameList = generate_names(numNames);
 
 ```
-Output:
+Output: 
+---
 ```js
   [
 ```
