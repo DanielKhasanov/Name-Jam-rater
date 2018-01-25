@@ -49,7 +49,7 @@ function generate_names(size=1) {
         names.push(`The ${adj} ${job}`)
         size--
     }
-    return names
+    return names;
 }
 
 module.exports = generate_names
